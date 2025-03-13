@@ -1,7 +1,7 @@
 # 💫 About Me:
 As a developer with a background in Robotics & Mechanical Engineering and a passion for innovation, here's a brief overview of my current endeavors and interests:<br><br>🔭 I’m currently working on developing accessible prosthetic solutions to enhance mobility for amputees, and updating the 'Tabzones' web extension to improve browser tab management.<br><br>👯 I’m looking to collaborate on Projects at the intersection of assistive technology and user-centric design, aiming to create impactful tools for individuals with disabilities.<br><br>🤝 I’m looking for help with advancing the integration of intuitive control systems in prosthetic devices to offer users more natural and responsive experiences.<br><br>🌱 I’m currently learning Advanced techniques in human-computer interaction and exploring the latest advancements in neural interface technologies.<br><br>💬 Ask me about The journey of developing assistive technologies, challenges in user adoption, and the importance of open-source contributions in medical device innovation.<br><br>⚡ Fun fact: I'm an avid gamer who enjoys exploring virtual worlds, which often inspires my approach to interactive design and user engagement.<br><br>Feel free to connect if you're interested in collaborating or discussing these topics further!
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
